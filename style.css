@@ -1,0 +1,14 @@
+.contain{
+    display: flex;
+    justify-content: space-between;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+#title{
+    text-align: center;
+    color: sienna;
+}
